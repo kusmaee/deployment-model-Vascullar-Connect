@@ -40,7 +40,6 @@ fonttools==4.53.0
 fqdn==1.5.1
 fsspec==2024.6.0
 gast==0.4.0
-gunicorn==22.0.0
 google-auth==2.29.0
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
