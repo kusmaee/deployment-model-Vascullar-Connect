@@ -1,4 +1,4 @@
-FROM python:3.10-silm
+FROM python:3.12-silm
 
 ENV PYTHONUNBUFFERED True
 
